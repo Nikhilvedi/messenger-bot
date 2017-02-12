@@ -1,6 +1,6 @@
 {
-    "appSecret": "",
-    "pageAccessToken": "",
-    "validationToken": "",
-    "serverURL": ""
+    "appSecret": "07c4b735ec58d04c7b38be5737ea6bac",
+    "pageAccessToken": "EAAJyBVDqC2oBABwjnYKzfxz4ka8kEQZAsZAhR28bZB05LwyOBYwn4qUZAUCOfhg9XMiPVojceZAfBTjOCy7VqGyThoye5Uu6r8rqZB1BttjZC6jNRfcn0g9ZBr604aB0ZC8lBmQRWqWpcMUoyKAAsL6Af5mzwk3rXlSbP9mAVS5hkJAZDZD",
+    "validationToken": "lets_ride",
+    "serverURL": "https://messenger-bot-1.herokuapp.com/"
 }
